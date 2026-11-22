@@ -10,7 +10,7 @@
     
 Second-year student in the BUT MMI program (Multimedia and Internet Professions), specializing in Web Development and Interactive Systems.<br>I am interested in working in front-end development (HTML/CSS) and in C#  ☆
 
-![French](https://flagcdn.com/w40/fr.png) <img src="http://www.image-heberg.fr/files/17953667161280682384.gif" alt="blinkie">
+![French](https://flagcdn.com/w40/fr.png) <img src="http://www.image-heberg.fr/files/17953668341493118292.gif" alt="blinkie">
 
 </div>
 <br><br>
