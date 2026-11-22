@@ -30,6 +30,9 @@ Second-year student in the BUT MMI program (Multimedia and Internet Professions)
 <div align="center">
 
 #  ★ GitHub Stats:
+
+<br>
+
 ![](https://github-readme-stats.shion.dev/api?username=magiiika&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=magiiika&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=magiiika&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
