@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-[🇫🇷 Français](README.md)
+![French](https://flagcdn.com/w40/fr.png) [Français](README.fr.md)
 
 #  ⭐ About Me:
 <br><br>
