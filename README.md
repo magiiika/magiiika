@@ -15,7 +15,7 @@ Second-year student in the BUT MMI program (Multimedia and Internet Professions)
 
 
 
-![French](https://flagcdn.com/w40/fr.png) <img src="http://www.image-heberg.fr/files/17953668341493118292.gif" alt="blinkie">
+![French](https://flagcdn.com/w40/fr.png) <img src="http://www.image-heberg.fr/files/17953672824214746264.gif" alt="blinkie">
 
 </div>
 <br><br>
