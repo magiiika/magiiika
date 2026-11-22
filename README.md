@@ -7,7 +7,7 @@
 #  ⭐ About Me:
 Second-year student in the BUT MMI program (Multimedia and Internet Professions), specializing in Web Development and Interactive Systems.<br>I am interested in working in front-end development (HTML/CSS) and in C#  ☆
 
-![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=npm+install%2Cnpm+run+dev%2Cecho+%22Hello+World%22&theme=modern&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto)
+![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=cd+magiiika%2Cls+magiiika%2Cecho+%22Welcome+to+my+profile%21%22%2Cecho+%22Second-year+student+in+the+BUT+MMI+program+%28Multimedia+and+Internet+Professions%29%2C+specializing+in+Web+Development+and+Interactive+Systems.%22&theme=github-dark&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto&color=%230080ff)
 
 ##  ★ Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m4gika) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m4giiika/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Itseeli) 
