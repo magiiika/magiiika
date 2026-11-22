@@ -23,7 +23,7 @@ Second-year student in the BUT MMI program (Multimedia and Internet Professions)
 
 <!-- Add-ons --> 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[magiiika]/[magiiika]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/magiiika/magiiika/main/github-contribution-grid-snake.svg" alt="..."/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magiiika&label=Profile%20views&color=0047AB&style=flat" alt="magiiika" /> </p>
