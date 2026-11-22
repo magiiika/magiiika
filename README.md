@@ -55,6 +55,7 @@
 ![](https://streak-stats.demolab.com/?user=magiiika&theme=transparent&hide_border=true)<br/>
 
 <div align="center">
+    
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=magiiika&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
