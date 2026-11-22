@@ -4,21 +4,27 @@
     </h1>
 </div>
 
+<div align="center">
+    
 #  ⭐ About Me:
 <br><br>
 
     
 Second-year student in the BUT MMI program (Multimedia and Internet Professions), specializing in Web Development and Interactive Systems.<br>I am interested in working in front-end development (HTML/CSS) and in C#  ☆
 
-<div align="center">
+
 
 ![French](https://flagcdn.com/w40/fr.png) <img src="http://www.image-heberg.fr/files/17953668341493118292.gif" alt="blinkie">
 
 </div>
 <br><br>
 
+<div align="center">
+
 #  ★ Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m4gika) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m4giiika/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Itseeli) 
+
+</div>
 
 <div align="center">
     
