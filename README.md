@@ -9,9 +9,9 @@
 #  ⭐ About Me:
 
     
-<br>
-Second-year student in the BUT MMI program (Multimedia and Internet Professions), specializing in Web Development and Interactive Systems.
-<br>I am interested in working in front-end development (HTML/CSS) and in C#  ☆
+<br>Second-year student in the BUT MMI program (Multimedia and Internet Professions), specializing in Web Development and Interactive Systems.
+
+<br>I am interested in working in front-end development (HTML/CSS) and in C#  
 
 <br>French ![French](https://flagcdn.com/w40/fr.png) 
 
