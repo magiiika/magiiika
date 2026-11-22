@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     
 #  ⭐ About Me:
 
