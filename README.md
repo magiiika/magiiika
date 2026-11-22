@@ -38,6 +38,8 @@ Second-year student in the BUT MMI program (Multimedia and Internet Professions)
 
 <!-- Add-ons --> 
 
-
+<div align="center">
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magiiika&label=Profile%20views&color=0047AB&style=flat" alt="magiiika" /> </p>
 
+</div>
