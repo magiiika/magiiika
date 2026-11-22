@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=0047AB&center=true&vCenter=true&width=435&lines=Hey..+I'm+Magiiika;This+is..;..my+Github!;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=0047AB&center=true&vCenter=true&width=435&lines=Hello!+I'm+Magiiika;This+is..;..my+Github!;" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -23,5 +23,5 @@ Second-year student in the BUT MMI program (Multimedia and Internet Professions)
 
 <!-- Add-ons --> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magiiika&label=Profile%20views&color=ffbb00&style=flat" alt="magiiika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magiiika&label=Profile%20views&color=0047AB&style=flat" alt="magiiika" /> </p>
 
