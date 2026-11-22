@@ -5,12 +5,9 @@
 </div>
 
 <div align="left">
-    
-    <div align="center">
-        
+     
 #  ⭐ About Me:
 
-    </div>
     
 <br>
 Second-year student in the BUT MMI program (Multimedia and Internet Professions), specializing in Web Development and Interactive Systems.
