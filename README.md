@@ -4,13 +4,13 @@
     </h1>
 </div>
 
-![French](https://flagcdn.com/w40/fr.png) [Français](README.fr.md)
-
 #  ⭐ About Me:
 <br><br>
 <div align="center">
     
-![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=cd+magiiika%2Cls+magiiika%2Cecho+%22Welcome+to+my+profile+%E2%AD%90%21%22%2Cecho+%22Second-year+student+in+the+BUT+MMI+program+%28Multimedia+and+Internet+Professions%29%2C+specializing+in+Web+Development+and+Interactive+Systems.%22&theme=github-dark&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto&color=%23ffff00)
+Second-year student in the BUT MMI program (Multimedia and Internet Professions), specializing in Web Development and Interactive Systems.<br>I am interested in working in front-end development (HTML/CSS) and in C#  ☆
+
+![French](https://flagcdn.com/w40/fr.png)
 
 </div>
 <br><br>
