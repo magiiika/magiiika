@@ -4,10 +4,12 @@
     </h1>
 </div>
 
+<br><br>
+
 <div align="center">
     
 #  ⭐ About Me:
-<br><br>
+<br>
 
     
 Second-year student in the BUT MMI program (Multimedia and Internet Professions), specializing in Web Development and Interactive Systems.<br>I am interested in working in front-end development (HTML/CSS) and in C#  ☆
