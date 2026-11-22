@@ -4,6 +4,8 @@
     </h1>
 </div>
 
+[🇫🇷 Français](README.fr.md)
+
 #  ⭐ About Me:
 <br><br>
 <div align="center">
